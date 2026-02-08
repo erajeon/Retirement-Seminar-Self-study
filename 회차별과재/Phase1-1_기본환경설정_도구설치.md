@@ -12,7 +12,7 @@
 - [x] Obsidian 설치 및 Vault 생성
 - [x] Claude Code 설치 (Pro 구독 필요)
 - [x] Git 설치 및 버전 확인
-- [ ] GitHub 계정 생성 및 Obsidian Vault를 Public 저장소로 업로드
+- [x] GitHub 계정 생성 및 Obsidian Vault를 Public 저장소로 업로드
 - [x] Node.js 설치 및 버전 확인
 - [x] Python 설치 및 버전 확인
 

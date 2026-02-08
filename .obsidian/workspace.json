@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "회차별자료/1회차_오리엔테이션_환경설정.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "1회차_오리엔테이션_환경설정"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "회차별자료/1회차_오리엔테이션_환경설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for 1회차_오리엔테이션_환경설정"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "회차별자료/1회차_오리엔테이션_환경설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from 1회차_오리엔테이션_환경설정"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "회차별자료/1회차_오리엔테이션_환경설정.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 1회차_오리엔테이션_환경설정"
             }
           }
         ]
@@ -201,15 +201,15 @@
   },
   "active": "b9784351d03da04a",
   "lastOpenFiles": [
+    "회차별과재/Phase1-2_프롬프트_실전과제.md",
+    "회차별과재/Phase1-1_기본환경설정_도구설치.md",
     "Untitled.md",
     "퇴직준비세미나_자율학습_가이드.md",
-    "회차별과재/Phase1-1_기본환경설정_도구설치.md",
     "000_PARA/Resource/008_eduDoc/Obsidian/Obsidian 교육 자료.md",
     "000_PARA/Resource/008_eduDoc/Obsidian",
     "000_PARA/Resource/008_eduDoc",
     "000_PARA/Resource",
     "000_PARA",
-    "회차별과재/Phase1-2_프롬프트_실전과제.md",
     "CLAUDE.md",
     "README.md",
     "퇴직준비세미나_Phase1_사전과제_공지.md",
