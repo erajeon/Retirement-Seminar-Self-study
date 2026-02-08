@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "회차별과재/Phase1-1_기본환경설정_도구설치.md",
+                "file": "퇴직준비세미나_자율학습_가이드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase1-1_기본환경설정_도구설치"
+              "title": "퇴직준비세미나_자율학습_가이드"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회차별과재/Phase1-1_기본환경설정_도구설치.md",
+                "file": "퇴직준비세미나_자율학습_가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Phase1-1_기본환경설정_도구설치"
+              "title": "Backlinks for 퇴직준비세미나_자율학습_가이드"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회차별과재/Phase1-1_기본환경설정_도구설치.md",
+                "file": "퇴직준비세미나_자율학습_가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Phase1-1_기본환경설정_도구설치"
+              "title": "Outgoing links from 퇴직준비세미나_자율학습_가이드"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회차별과재/Phase1-1_기본환경설정_도구설치.md",
+                "file": "퇴직준비세미나_자율학습_가이드.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Phase1-1_기본환경설정_도구설치"
+              "title": "Outline of 퇴직준비세미나_자율학습_가이드"
             }
           }
         ]
@@ -186,10 +186,12 @@
   },
   "active": "6ba6ad768453aae2",
   "lastOpenFiles": [
-    "README.md",
     "CLAUDE.md",
-    "퇴직준비세미나_Phase1_사전과제_공지.md",
     "퇴직준비세미나_자율학습_가이드.md",
+    "회차별과재/Phase1-1_기본환경설정_도구설치.md",
+    "회차별과재/Phase1-2_프롬프트_실전과제.md",
+    "README.md",
+    "퇴직준비세미나_Phase1_사전과제_공지.md",
     "회차별자료/9회차_나만의_프로젝트_관리_시스템.md",
     "회차별자료/8회차_발표자료부터_데이터_분석까지.md",
     "회차별자료/7회차_1인_연구자의_무기들.md",
@@ -212,8 +214,6 @@
     "회차별과재/회차별자료/1회차_오리엔테이션_환경설정.md",
     "회차별과재/회차별자료/10회차_T자형_역량_확장과_종합_실습.md",
     "회차별과재/회차별자료",
-    "Retirement-Seminar-Self-Study_By.Cha/회차별자료/9회차_나만의_프로젝트_관리_시스템.md",
-    "Retirement-Seminar-Self-Study_By.Cha/회차별자료/8회차_발표자료부터_데이터_분석까지.md",
     "Retirement-Seminar-Self-Study_By.Cha/회차별자료",
     "Retirement-Seminar-Self-Study_By.Cha/LICENSE",
     "Retirement-Seminar-Self-Study_By.Cha",
