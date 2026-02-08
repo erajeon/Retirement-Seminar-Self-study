@@ -11,10 +11,14 @@
             "id": "6ba6ad768453aae2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "회차별과재/Phase1-1_기본환경설정_도구설치.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Phase1-1_기본환경설정_도구설치"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "회차별과재/Phase1-1_기본환경설정_도구설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Phase1-1_기본환경설정_도구설치"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "회차별과재/Phase1-1_기본환경설정_도구설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Phase1-1_기본환경설정_도구설치"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "회차별과재/Phase1-1_기본환경설정_도구설치.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Phase1-1_기본환경설정_도구설치"
             }
           }
         ]
@@ -173,9 +180,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6ba6ad768453aae2",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "README.md",
+    "CLAUDE.md",
+    "퇴직준비세미나_Phase1_사전과제_공지.md",
+    "퇴직준비세미나_자율학습_가이드.md",
+    "회차별자료/9회차_나만의_프로젝트_관리_시스템.md",
+    "회차별자료/8회차_발표자료부터_데이터_분석까지.md",
+    "회차별자료/7회차_1인_연구자의_무기들.md",
+    "회차별자료/6회차_Claude_Skill_자동_문서화.md",
+    "회차별자료/5회차_Obsidian_제2의_뇌_구축.md",
+    "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
+    "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
+    "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
+    "회차별자료/1회차_오리엔테이션_환경설정.md",
+    "회차별자료/10회차_T자형_역량_확장과_종합_실습.md",
+    "회차별자료",
+    "회차별과재/회차별자료/9회차_나만의_프로젝트_관리_시스템.md",
+    "회차별과재/회차별자료/8회차_발표자료부터_데이터_분석까지.md",
+    "회차별과재/회차별자료/7회차_1인_연구자의_무기들.md",
+    "회차별과재/회차별자료/6회차_Claude_Skill_자동_문서화.md",
+    "회차별과재/회차별자료/5회차_Obsidian_제2의_뇌_구축.md",
+    "회차별과재/회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
+    "회차별과재/회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
+    "회차별과재/회차별자료/2회차_프롬프트_엔지니어링_기초.md",
+    "회차별과재/회차별자료/1회차_오리엔테이션_환경설정.md",
+    "회차별과재/회차별자료/10회차_T자형_역량_확장과_종합_실습.md",
+    "회차별과재/회차별자료",
+    "Retirement-Seminar-Self-Study_By.Cha/회차별자료/9회차_나만의_프로젝트_관리_시스템.md",
+    "Retirement-Seminar-Self-Study_By.Cha/회차별자료/8회차_발표자료부터_데이터_분석까지.md",
+    "Retirement-Seminar-Self-Study_By.Cha/회차별자료",
+    "Retirement-Seminar-Self-Study_By.Cha/LICENSE",
+    "Retirement-Seminar-Self-Study_By.Cha",
+    "회차별과재/Retirement-Seminar-Self-Study_By.Cha/회차별자료",
+    "회차별과재/Retirement-Seminar-Self-Study_By.Cha/LICENSE",
+    "회차별과재/Retirement-Seminar-Self-Study_By.Cha",
+    "회차별과재"
+  ]
 }
