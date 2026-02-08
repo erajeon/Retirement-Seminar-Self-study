@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "1회차_오리엔테이션_환경설정"
             }
+          },
+          {
+            "id": "c8ed50b2538650e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000_PARA/Projects/퇴직준비세미나 학습.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "퇴직준비세미나 학습"
+            }
           }
         ],
         "currentTab": 1
@@ -199,16 +213,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85322a4ffc843d32",
+  "active": "b9784351d03da04a",
   "lastOpenFiles": [
+    "000_PARA/Projects/퇴직준비세미나 학습.md",
+    "000_PARA/Resource/AI 도구 모음.md",
+    "000_PARA/Resource/008_eduDoc/Obsidian/Obsidian 교육 자료.md",
+    "000_PARA/Areas/건강관리 및 자기개발.md",
+    "Untitled 1.md",
+    "회차별자료/1회차_오리엔테이션_환경설정.md",
     "000_PARA/Archive",
     "000_PARA/Areas",
     "000_PARA/Projects",
     "회차별과재/Phase1-2_프롬프트_실전과제.md",
     "회차별과재/Phase1-1_기본환경설정_도구설치.md",
-    "Untitled.md",
     "퇴직준비세미나_자율학습_가이드.md",
-    "000_PARA/Resource/008_eduDoc/Obsidian/Obsidian 교육 자료.md",
     "000_PARA/Resource/008_eduDoc/Obsidian",
     "000_PARA/Resource/008_eduDoc",
     "000_PARA/Resource",
@@ -224,7 +242,6 @@
     "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
-    "회차별자료/1회차_오리엔테이션_환경설정.md",
     "회차별자료/10회차_T자형_역량_확장과_종합_실습.md",
     "회차별자료",
     "회차별과재/회차별자료/9회차_나만의_프로젝트_관리_시스템.md",
@@ -232,10 +249,7 @@
     "회차별과재/회차별자료/7회차_1인_연구자의_무기들.md",
     "회차별과재/회차별자료/6회차_Claude_Skill_자동_문서화.md",
     "회차별과재/회차별자료/5회차_Obsidian_제2의_뇌_구축.md",
-    "회차별과재/회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
-    "회차별과재/회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "회차별과재/회차별자료",
-    "Retirement-Seminar-Self-Study_By.Cha/회차별자료",
-    "Retirement-Seminar-Self-Study_By.Cha/LICENSE"
+    "Retirement-Seminar-Self-Study_By.Cha/회차별자료"
   ]
 }
