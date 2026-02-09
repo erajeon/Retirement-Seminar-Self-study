@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "4bde2f89c9c1fe17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회차별과재/Phase1-2_프롬프트_실전과제.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Phase1-2_프롬프트_실전과제"
+            }
+          },
+          {
             "id": "c8ed50b2538650e0",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "회차별자료/1회차_오리엔테이션_환경설정.md",
+                "file": "회차별과재/Phase1-2_프롬프트_실전과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1회차_오리엔테이션_환경설정"
+              "title": "Backlinks for Phase1-2_프롬프트_실전과제"
             }
           },
           {
@@ -142,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "회차별자료/1회차_오리엔테이션_환경설정.md",
+                "file": "회차별과재/Phase1-2_프롬프트_실전과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1회차_오리엔테이션_환경설정"
+              "title": "Outgoing links from Phase1-2_프롬프트_실전과제"
             }
           },
           {
@@ -185,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "회차별자료/1회차_오리엔테이션_환경설정.md",
+                "file": "회차별과재/Phase1-2_프롬프트_실전과제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1회차_오리엔테이션_환경설정"
+              "title": "Outline of Phase1-2_프롬프트_실전과제"
             }
           }
         ]
@@ -213,10 +227,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9784351d03da04a",
+  "active": "4bde2f89c9c1fe17",
   "lastOpenFiles": [
-    "000_PARA/Resource/008_eduDoc/버전관리/AI 도구와 Git 관리.md",
+    "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
     "회차별자료/1회차_오리엔테이션_환경설정.md",
+    "000_PARA/Resource/008_eduDoc/버전관리/AI 도구와 Git 관리.md",
     "000_PARA/Resource/008_eduDoc/버전관리",
     "000_PARA/Resources/Claude Code 사용법.md",
     "000_PARA/Resource/AI 도구 모음.md",
@@ -243,7 +258,6 @@
     "회차별자료/7회차_1인_연구자의_무기들.md",
     "회차별자료/6회차_Claude_Skill_자동_문서화.md",
     "회차별자료/5회차_Obsidian_제2의_뇌_구축.md",
-    "회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
     "회차별자료/3회차_AI_Agent_개념과_아키텍처.md",
     "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
     "회차별자료/10회차_T자형_역량_확장과_종합_실습.md",
