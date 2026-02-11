@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "퇴직준비세미나_Phase2_사전과제_공지.md",
+                "file": "회차별자료/2회차_프롬프트_엔지니어링_기초.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "퇴직준비세미나_Phase2_사전과제_공지"
+              "title": "2회차_프롬프트_엔지니어링_기초"
             }
           },
           {
@@ -229,9 +229,9 @@
   },
   "active": "4bde2f89c9c1fe17",
   "lastOpenFiles": [
+    "퇴직준비세미나_Phase2_사전과제_공지.md",
     "퇴직준비세미나_Phase1_사전과제_공지.md",
     "퇴직준비세미나_Phase1-2_사전과제_공지.md",
-    "퇴직준비세미나_Phase2_사전과제_공지.md",
     "회차별과재/Phase2_Claude_Code_자동화_태스크.md",
     "회차별자료/1회차_오리엔테이션_환경설정.md",
     "000_PARA/Areas/건강관리 및 자기개발.md",
